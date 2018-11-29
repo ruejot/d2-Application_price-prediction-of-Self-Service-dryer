@@ -2,5 +2,4 @@
 note
 
 some pic
-
-~
+words here~
