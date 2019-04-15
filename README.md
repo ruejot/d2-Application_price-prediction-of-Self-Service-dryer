@@ -4,7 +4,7 @@
 
 ## 流程
 
-![image](snapshot/humid.jpg "投幣式烘衣機估價")
+![image](snapshot/Humid.jpg "投幣式烘衣機估價")
 
 ## 硬體端
 
